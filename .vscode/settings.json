@@ -1,5 +1,0 @@
-{
-    "fortran.includePaths": [
-        "${MKLROOT}/include"
-    ]
-}
